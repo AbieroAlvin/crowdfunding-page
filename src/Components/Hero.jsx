@@ -1,7 +1,7 @@
 import logo from "../images/logo-mastercraft.svg";
 import { useState, useContext } from "react";
 import { AppContext } from "../Contexts/AppContext";
-import TriggerModalButton from "../Components/Buttons/TriggerModalButton";
+import TriggerModalButton from "./TriggerModalButton";
 
 import About from "./About";
 import { FaBookmark } from "react-icons/fa";
